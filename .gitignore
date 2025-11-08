@@ -211,4 +211,4 @@ __marimo__/
 /venv/
 
 # Local Dataset
-onlinefraud.csv
+/data/
